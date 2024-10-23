@@ -1,0 +1,101 @@
+[
+  {
+    "model": "books.book",
+    "pk": 1,
+    "fields": {
+      "name": "Война и мир",
+      "author": "Лев Толстой",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 2,
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Продавец воздуха",
+      "author": "Александр Беляев",
+      "pub_date": "2021-06-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Тихий Дон",
+      "author": "Михаил Шолохов",
+      "pub_date": "2021-06-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Идиот",
+      "author": "Федор Достоевский",
+      "pub_date": "2020-03-20"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Капитанская дочка",
+      "author": "Александр Пушкин",
+      "pub_date": "2020-03-20"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "Круть",
+      "author": "Виктор Пелевин",
+      "pub_date": "2020-03-20"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Баязет",
+      "author": "Валентин Пикуль",
+      "pub_date": "2019-10-15"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Гранатовый браслет",
+      "author": "Александр Куприн",
+      "pub_date": "2019-10-15"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "Мцыри",
+      "author": "Михаил Лермонтов",
+      "pub_date": "2021-09-03"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "name": "Айвенго",
+      "author": "Вальтер Скотт",
+      "pub_date": "2020-07-22"
+    }
+  }
+]
